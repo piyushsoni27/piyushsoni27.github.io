@@ -1,5 +1,5 @@
 ---
-title: "1. Sudoku Solver"
+title: "Sudoku Solver"
 excerpt: "Web app to detect, extract and solve a sudoku puzzle from an image.<br/><img src='/images/sudoku_solver.png'>"
 collection: portfolio
 ---
