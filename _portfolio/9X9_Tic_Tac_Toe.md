@@ -1,6 +1,6 @@
 ---
 title: "9 X 9 Tic Tac Toe"
-excerpt: "An interpolation of the classic 3X3 Tic Tac Toe with a larger 3X3 TicTacToe having smaller 3X3 TicTacToe in each of its 9 cells.<br/><img src='/images/sudoku_solver.png'>"
+excerpt: "An interpolation of the classic 3X3 Tic Tac Toe with a larger 3X3 TicTacToe having smaller 3X3 TicTacToe in each of its 9 cells.<br/><img src='/images/9x9.png'>"
 collection: portfolio
 ---
 
