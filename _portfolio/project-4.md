@@ -1,6 +1,6 @@
 ---
 title: "Fb-bot"
-excerpt: "FB chatbot trained on reddit QA dataset.>"
+excerpt: "FB chatbot trained on reddit QA dataset."
 collection: portfolio
 ---
 [*Project link*](https://github.com/piyushsoni27/fb_bot)
