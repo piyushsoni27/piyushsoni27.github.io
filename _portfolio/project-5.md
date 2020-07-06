@@ -1,6 +1,6 @@
 ---
 title: "Bigmart Sales"
-excerpt: "Data Science competition by Analytics Vidhya with aim to build a predictive model and find out the sales of each product at a particular BigMart store.<br/><img src='/images/sudoku_solver.png'>"
+excerpt: "Data Science competition by Analytics Vidhya with aim to build a predictive model and find out the sales of each product at a particular BigMart store.>"
 collection: portfolio
 ---
 [*Project link*](https://github.com/piyushsoni27/Data-Science/tree/master/Analytics%20Vidhya%20-%20Big%20Mart%20Sales%20III)
