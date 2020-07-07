@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 [*Download*](https://piyushsoni27.github.io/files/Piyush's%20Resume.pdf)
+
 Education
 ======
 * B.Tech. in Electronics Engineering, Indian Institute of Technology(BHU)-Varanasi, 2017
