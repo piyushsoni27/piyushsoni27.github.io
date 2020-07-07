@@ -14,11 +14,11 @@ redirect_from:
 
 Education
 ======
-* B.Tech. in Electronics Engineering, Indian Institute of Technology(BHU)-Varanasi, 2017
+* B.Tech. in Electronics Engineering, **Indian Institute of Technology(BHU)-Varanasi**, 2017 (7.93/10)
 
 Work experience
 ======
-* Software Engineer at Samsung Research Institute
+* Software Engineer at **Samsung Research Institute**
   * Developed a tool for automated classification and assignment of PLM
 issues to respective teams based on the issue's title and description.
   * The developed tool is being used by Software Project leaders for issue
@@ -30,7 +30,7 @@ Camera team for upcoming smartphones.
 information from chip vendor's websites in order to reduce redundant
 task.
 
-* Summer Intern at nanoPix Integrated Software Solutions Pvt. Ltd.
+* Summer Intern at **nanoPix Integrated Software Solutions Pvt. Ltd.**
   * Successfully developed an optimized algorithm for automatic capturing of multiple images of freely falling object
 using Raspberry Pi after getting GPIO trigger in minimal time dierence.
   * Used concepts of parallel processing like Producer-Consumer Problem and implemented it using pThread and
