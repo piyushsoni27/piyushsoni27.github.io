@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* Software Engineer at **Samsung Research Institute**
+* Software Engineer at **Samsung Research Institute**  (2017 - Present)
   * Developed a tool for automated classification and assignment of PLM
 issues to respective teams based on the issue's title and description.
   * The developed tool is being used by Software Project leaders for issue
@@ -30,7 +30,7 @@ Camera team for upcoming smartphones.
 information from chip vendor's websites in order to reduce redundant
 task.
 
-* Summer Intern at **nanoPix Integrated Software Solutions Pvt. Ltd.**
+* Summer Intern at **nanoPix Integrated Software Solutions Pvt. Ltd.** (Summer - 2016)
   * Successfully developed an optimized algorithm for automatic capturing of multiple images of freely falling object
 using Raspberry Pi after getting GPIO trigger in minimal time dierence.
   * Used concepts of parallel processing like Producer-Consumer Problem and implemented it using pThread and
