@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-[*Download*](https://piyushsoni27.github.io/files/Piyush's%20Resume.pdf)
+[*Download Resume*](https://piyushsoni27.github.io/files/Piyush's%20Resume.pdf)
+
 
 Education
 ======
