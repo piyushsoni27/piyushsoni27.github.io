@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ["CV"](https://piyushsoni27.github.io/files/Piyush's%20Resume.pdf)
 permalink: /cv/
 author_profile: true
 redirect_from:
