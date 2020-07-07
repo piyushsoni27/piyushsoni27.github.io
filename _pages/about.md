@@ -9,4 +9,4 @@ redirect_from:
 ---
 [*Resume*](https://piyushsoni27.github.io/files/Piyush's%20Resume.pdf)
 
-This is my home on the web!
+I am a software developer at Samsung R&D Institute Noida who loves to create intelligent applications. I am a huge Machine Learning Enthusiast and like to find solutions to real life problems using technology.
