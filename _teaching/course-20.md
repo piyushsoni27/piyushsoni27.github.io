@@ -1,8 +1,8 @@
 ---
-title: "The Data Scientist's Toolbox"
+title: ["The Data Scientist's Toolbox"](https://coursera.org/share/3616537aa0b9e2be5c496c9b977ebd21)
 collection: teaching
 type: "Coursera"
-permalink: "https://coursera.org/share/3616537aa0b9e2be5c496c9b977ebd21"
+permalink: /teaching/course-20
 venue: "Johns Hopkins University"
 date: 2016-07-04
 location: "City, Country"
