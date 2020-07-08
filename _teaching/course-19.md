@@ -4,7 +4,7 @@ collection: teaching
 type: "Coursera"
 permalink: /teaching/course-19
 venue: "JOHNS HOPKINS UNIVERSITY"
-date: 2016
+date: 2016-04-16
 location: "City, Country"
 ---
 
