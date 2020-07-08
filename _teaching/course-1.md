@@ -2,7 +2,7 @@
 title: "The Data Scientist's Toolbox"
 collection: teaching
 type: "Coursera"
-permalink: /teaching/course-20
+permalink: /teaching/course-1
 venue: "Johns Hopkins University"
 date: 2016-07-04
 location: "City, Country"
