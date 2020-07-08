@@ -2,8 +2,8 @@
 title: "Getting and Cleaning Data"
 collection: teaching
 type: "Coursera"
-permalink: /teaching/course-19
-venue: "JOHNS HOPKINS UNIVERSITY"
+permalink: /teaching/course-2
+venue: "Johns Hopkins University"
 date: 2016-04-16
 location: "City, Country"
 ---
