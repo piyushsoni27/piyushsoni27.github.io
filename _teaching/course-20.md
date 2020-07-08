@@ -1,5 +1,5 @@
 ---
-title: ["The Data Scientist's Toolbox"](https://coursera.org/share/3616537aa0b9e2be5c496c9b977ebd21)
+title: "The Data Scientist's Toolbox"
 collection: teaching
 type: "Coursera"
 permalink: /teaching/course-20
