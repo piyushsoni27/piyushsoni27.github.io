@@ -1,10 +1,10 @@
 ---
-title: "R Programming"
+title: "Neural Networks and Deep Learning"
 collection: teaching
 type: "Coursera"
-permalink: /teaching/2015-spring-teaching-1
-venue: "Johns Hopkins University"
-date: 2016-05-09
+permalink: /teaching/course-5
+venue: "deeplearning.ai"
+date: 2017-10-17
 location: "City, Country"
 ---
 
