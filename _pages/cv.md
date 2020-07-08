@@ -42,7 +42,13 @@ Skills
 * Python
 * C++
 * Natural Language Processing
+* Keras
+* OpenCV
+* Computer Vision
   
-Service and leadership
+Achievments
 ======
-* Currently signed in to 43 different slack teams
+* Won **Best Project Award** at **Samsung** for my contribution in CP module of Galaxy M30s project.
+* Secured **1st place** in Open Software Event conducted by Technex'16, the annual technical festival of **IIT(BHU)**.
+* Secured **1st place** in the event MOSAIC conducted by UDYAM'16, the annual technical festival of Electronics
+Engineering Dept. of **IIT(BHU)**.
