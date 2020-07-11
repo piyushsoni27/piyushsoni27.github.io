@@ -1,6 +1,6 @@
 ---
 title: "Gesture Recognition Based Calculator"
-excerpt: "Gesture recognition system trained to recognize mathematical expressions using hand gesture."
+excerpt: "Gesture recognition system trained to recognize mathematical expressions using hand gesture.<br/><img src='/images/gesture.jpg'>"
 collection: portfolio
 ---
 
